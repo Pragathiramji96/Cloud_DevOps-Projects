@@ -51,4 +51,4 @@ docker run -d -p 5000:5000 cloudnote-app
 - Full CI/CD flow from code push to auto deployment
 
 ## Author
-**Pragathi** — DevOps Engineer in Training
+**Pragathi** 
