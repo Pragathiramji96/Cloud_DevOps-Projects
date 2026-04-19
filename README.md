@@ -41,12 +41,7 @@ docker run -d -p 5000:5000 cloudnote-app
 ![Jenkins](Jenkins_Successful.png)
 
 ### ✅ Azure VM Dashboard
-![Azure](Azure-vm.png)
-### Live App
-![App Running](docs/app-screenshot.png)
-
-### Jenkins Pipeline Success
-![Jenkins Success](docs/jenkins-screenshot.png)
+![Azure](Azure_vm.png)
 
 ## What I Learned
 - Setting up Linux server on Azure cloud
