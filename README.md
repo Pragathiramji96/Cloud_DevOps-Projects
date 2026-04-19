@@ -32,6 +32,22 @@ docker run -d -p 5000:5000 cloudnote-app
 - App: `http://20.244.27.88:5000`
 - Jenkins: `http://20.244.27.88:8080`
 
+## Screenshots
+
+### ✅ Application Running on Azure
+![App](app_working screenshot.png)
+
+### ✅ Jenkins Pipeline Success
+![Jenkins](jenkins_Successful.png)
+
+### ✅ Azure VM Dashboard
+![Azure](azure-vm.png)
+### Live App
+![App Running](docs/app-screenshot.png)
+
+### Jenkins Pipeline Success
+![Jenkins Success](docs/jenkins-screenshot.png)
+
 ## What I Learned
 - Setting up Linux server on Azure cloud
 - Installing and configuring Jenkins via Docker
